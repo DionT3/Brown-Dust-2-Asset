@@ -1424,19 +1424,8 @@
         "releaseDate": "2025-10-23",
         "spine": "char067103",
         "cutscene": "cutscene_char067103"
-      },
-      {
-        "costumeId": "067104",
-        "costumeName": "Combat Medic",
-        "releaseDate": "2025-10-23",
-        "spine": "char067104",
-        "cutscene": "cutscene_char067104"
       }
-    ],
-    "guest": {
-      "releaseDate": "2026-07-24",
-      "interact": "illust_dating19"
-    }
+    ]
   },
   {
     "charId": "0672",
