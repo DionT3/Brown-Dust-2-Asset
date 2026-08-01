@@ -58,7 +58,7 @@
         "costumeName": "Knight of Blood",
         "releaseDate": "2023-06-22",
         "spine": "char000201",
-        "cutscene": "cutscene_char000201"
+        "cutscene": ""
       },
       {
         "costumeId": "000202",
@@ -93,10 +93,7 @@
       "prestigeSkinName": "Hot Summer Dream",
       "releaseDate": "",
       "spine": "char000296",
-      "interact": [
-		"illust_dating7",
-		"cutscene_char000296"
-	  ]
+      "interact": "illust_dating7"
     }
   },
   {
@@ -179,14 +176,13 @@
         "costumeName": "White Cat",
         "releaseDate": "2023-06-22",
         "spine": "char000501",
-        "cutscene": "cutscene_char000501"
+        "cutscene": ""
       },
       {
         "costumeId": "000502",
         "costumeName": "Red Riding Hood",
         "releaseDate": "2023-09-26",
         "spine": "char000502",
-		"censored_spine": "char000502_c"
         "cutscene": "cutscene_char000502"
       },
       {
@@ -374,10 +370,7 @@
       "prestigeSkinName": "Milky Bikini",
       "releaseDate": "2025-08-14",
       "spine": "char001197",
-      "interact": [
-		"illust_dating9",
-		"cutscene_char001197"
-	  ]
+      "interact": "illust_dating9"
     }
   },
   {
@@ -420,13 +413,6 @@
         "spine": "char002401",
         "cutscene": "cutscene_char002401"
       },
-	  {
-        "costumeId": "002403",
-        "costumeName": "Magical Innovator",
-        "releaseDate": "",
-        "spine": "char002403",
-        "cutscene": "cutscene_char002403"
-      },
       {
         "costumeId": "002406",
         "costumeName": "Anti-dystopia",
@@ -459,7 +445,7 @@
         "costumeId": "003101",
         "costumeName": "Hand of Salvation",
         "releaseDate": "2023-06-22",
-        "spine": "char003101",
+        "spine": "",
         "cutscene": "cutscene_char003101"
       }
     ]
@@ -597,21 +583,10 @@
         "costumeId": "003603",
         "costumeName": "Fallen Wings",
         "releaseDate": "2025-07-17",
-        "spine": "char003603",
+        "spine": "char00603",
         "cutscene": "cutscene_char003603"
-      },
-	  {
-        "costumeId": "003604",
-        "costumeName": "Retired Legend",
-        "releaseDate": "",
-        "spine": "char003604",
-        "cutscene": "cutscene_char003604"
       }
-    ],
-	"guest": {
-      "releaseDate": "",
-      "interact": "illust_dating16"
-    }
+    ]
   },
   {
     "charId": "0037",
@@ -625,19 +600,19 @@
         "spine": "char003701",
         "cutscene": "cutscene_char003701"
       },
-	  {
-        "costumeId": "003702",
-        "costumeName": "Onsen Swordfighter",
-        "releaseDate": "",
-        "spine": "char003702",
-        "cutscene": "cutscene_char003702"
-      },
       {
         "costumeId": "003703",
         "costumeName": "Young Lady",
         "releaseDate": "2025-02-27",
         "spine": "char003703",
         "cutscene": "cutscene_char003703"
+      },
+      {
+        "costumeId": "003702",
+        "costumeName": "Onsen",
+        "releaseDate": "I Forgor",
+        "spine": "char003702",
+        "cutscene": "cutscene_char003702"
       }
     ]
   },
@@ -659,24 +634,8 @@
         "releaseDate": "2025-01-31",
         "spine": "char003802",
         "cutscene": "cutscene_char003802"
-      },
-	  {
-        "costumeId": "003803",
-        "costumeName": "Miracle Rose",
-        "releaseDate": "",
-        "spine": "char003803",
-        "cutscene": "cutscene_char003803"
       }
-    ],
-	"prestigeSkin": {
-      "prestigeSkinName": "Hedonist",
-      "releaseDate": "",
-      "spine": "char003892",
-      "interact": [
-		"illust_dating14",
-		"cutscene_char003892"
-	  ]
-    }
+    ]
   },
   {
     "charId": "0039",
@@ -731,44 +690,8 @@
         "releaseDate": "2025-09-25",
         "spine": "char004101",
         "cutscene": "cutscene_char004101"
-      },
-	  {
-        "costumeId": "004102",
-        "costumeName": "Innocent Bunny",
-        "releaseDate": "",
-        "spine": "char004102",
-        "cutscene": "cutscene_char004102"
       }
-    ],
-	"guest": {
-      "releaseDate": "",
-      "interact": "illust_dating13"
-    }
-  },
-  {
-    "charId": "0042",
-    "charName": "Palette",
-    "rarity": 5,
-    "costumes": [
-      {
-        "costumeId": "004201",
-        "costumeName": "Shattered Dream",
-        "releaseDate": "",
-        "spine": "char004201",
-        "cutscene": "cutscene_char004201"
-      },
-	  {
-        "costumeId": "004202",
-        "costumeName": "Miracle Violet",
-        "releaseDate": "",
-        "spine": "char004202",
-        "cutscene": "cutscene_char004202"
-      }
-    ],
-	"guest": {
-      "releaseDate": "",
-      "interact": "illust_dating17"
-    }
+    ]
   },
   {
     "charId": "0200",
@@ -780,14 +703,14 @@
         "costumeName": "Esteemed Adventurer",
         "releaseDate": "2024-06-05",
         "spine": "char020001",
-        "cutscene": "cutscene_char020001"
+        "cutscene": "cutscene_char020101"
       },
       {
         "costumeId": "020002",
         "costumeName": "Your Very Own Cat",
         "releaseDate": "2024-06-05  ",
         "spine": "char020002",
-        "cutscene": "cutscene_char020002"
+        "cutscene": "cutscene_char020102"
       }
     ]
   },
@@ -835,7 +758,7 @@
         "costumeId": "020301",
         "costumeName": "Fist of Conviction",
         "releaseDate": "2024-10-02",
-        "spine": "char020301",
+        "spine": "char020101",
         "cutscene": "cutscene_char020301"
       }
     ]
@@ -920,21 +843,7 @@
         "costumeName": "Supreme God Archbishop",
         "releaseDate": "2025-05-22",
         "spine": "char020901",
-        "cutscene": "cutscene_char020901"
-      }
-    ]
-  },
-  {
-    "charId": "0210",
-    "charName": "Karuga",
-    "rarity": 5,
-    "costumes": [
-      {
-        "costumeId": "021001",
-        "costumeName": "Noble Flame",
-        "releaseDate": "",
-        "spine": "char021001",
-        "cutscene": "cutscene_char021001"
+        "cutscene": "cutscene_char020801"
       }
     ]
   },
@@ -969,14 +878,14 @@
         "costumeName": "The Curse",
         "releaseDate": "2023-06-22",
         "spine": "",
-        "cutscene": "cutscene_char060401"
+        "cutscene": ""
       },
       {
         "costumeId": "060402",
         "costumeName": "Descendant of the Great Witch",
         "releaseDate": "2023-06-22",
         "spine": "char060402",
-        "cutscene": "cutscene_char060402"
+        "cutscene": ""
       },
       {
         "costumeId": "060403",
@@ -1018,7 +927,7 @@
         "costumeName": "Killer Doll",
         "releaseDate": "2023-06-22",
         "spine": "char060601",
-        "cutscene": "cutscene_char060601"
+        "cutscene": ""
       },
       {
         "costumeId": "060602",
@@ -1039,14 +948,14 @@
         "costumeName": "Steel Engine",
         "releaseDate": "2023-06-22",
         "spine": "char060701",
-        "cutscene": "cutscene_char060701"
+        "cutscene": ""
       },
       {
         "costumeId": "060702",
         "costumeName": "Code Name A",
         "releaseDate": "2023-06-22",
         "spine": "char060702",
-        "cutscene": "cutscene_char060702"
+        "cutscene": ""
       },
       {
         "costumeId": "060706",
@@ -1067,7 +976,7 @@
         "costumeName": "Lovely Lady",
         "releaseDate": "2023-06-22",
         "spine": "char060801",
-        "cutscene": "cutscene_char060801"
+        "cutscene": ""
       },
       {
         "costumeId": "060802",
@@ -1101,12 +1010,7 @@
         "spine": "char061002",
         "cutscene": "cutscene_char061002"
       }
-    ],
-	"skin":{
-		"skinName": "Rising Star",
-		"spine": "char061092",
-		"cutscene": "cutscene_char061092_a"
-	}
+    ]
   },
   {
     "charId": "0611",
@@ -1181,10 +1085,7 @@
       "prestigeSkinName": "Stranger Bunny",
       "releaseDate": "2025-12-16",
       "spine": "char061492",
-      "interact": [
-		"illust_dating12",
-		"cutscene_char061492"
-	  ]
+      "interact": "illust_dating12"
     }
   },
   {
@@ -1327,14 +1228,13 @@
         "costumeName": "The Gluttonous",
         "releaseDate": "2024-05-01",
         "spine": "char066801",
-        "cutscene": "cutscene_char066801"
+        "cutscene": ""
       },
       {
         "costumeId": "066802",
         "costumeName": "Pure White Blessing",
         "releaseDate": "2024-04-25",
         "spine": "char066802",
-		"censored_spine": "char066802_c"
         "cutscene": "cutscene_char066802"
       },
       {
@@ -1393,11 +1293,7 @@
         "spine": "char067004",
         "cutscene": "cutscene_char067004"
       }
-    ],
-	"guest": {
-      "releaseDate": "",
-      "interact": "illust_dating15"
-    }
+    ]
   },
   {
     "charId": "0671",
@@ -1499,7 +1395,7 @@
         "costumeId": "067403",
         "costumeName": "Acting Archbishop",
         "releaseDate": "2025-03-27",
-        "spine": "char067403",
+        "spine": "",
         "cutscene": "cutscene_char067403"
       }
     ]
@@ -1521,7 +1417,7 @@
         "costumeName": "Wild Dog",
         "releaseDate": "2025-01-02",
         "spine": "char067503",
-        "cutscene": "cutscene_char067503"
+        "cutscene": ""
       }
     ]
   },
@@ -1548,7 +1444,7 @@
         "costumeId": "067604",
         "costumeName": "char067604",
         "releaseDate": "2025-12-16",
-        "spine": "char067604",
+        "spine": "cutscene_char067604",
         "cutscene": "cutscene_char067604"
       }
     ],
@@ -1556,48 +1452,6 @@
       "releaseDate": "2025-07-22",
       "interact": "illust_dating6"
     }
-  },  
-  {
-    "charId": "0677",
-    "charName": "Granadair",
-    "rarity": 0,
-    "costumes": [
-      {
-        "costumeId": "067701",
-        "costumeName": "Shrine Maiden of Purification",
-        "releaseDate": "",
-        "spine": "char067701",
-        "cutscene": "cutscene_char067701"
-      },
-      {
-        "costumeId": "067702",
-        "costumeName": "Queen of Gluttis",
-        "releaseDate": "",
-        "spine": "char067702",
-        "cutscene": "cutscene_char067702"
-      }
-    ]
-  },
-  {
-    "charId": "0678",
-    "charName": "Mamonir",
-    "rarity": 5,
-    "costumes": [
-      {
-        "costumeId": "067801",
-        "costumeName": "Night of Death",
-        "releaseDate": "",
-        "spine": "char067801",
-        "cutscene": "cutscene_char067801"
-      },
-	  {
-        "costumeId": "067803",
-        "costumeName": "Miracle Marine",
-        "releaseDate": "",
-        "spine": "char067803",
-        "cutscene": "cutscene_char067803"
-      }
-    ]
   },
   {
     "charId": "1001",
@@ -1714,15 +1568,13 @@
         "costumeName": "Demon\u0027s Daughter",
         "releaseDate": "2023-06-22",
         "spine": "char101101",
-		"censored_spine": "char10101_c",
-        "cutscene": "cutscene_char101101"
+        "cutscene": ""
       },
       {
         "costumeId": "101102",
         "costumeName": "B-Rank Idol",
         "releaseDate": "2023-07-20",
         "spine": "char101102",
-		"censored_spine": "char10102_c",
         "cutscene": "cutscene_char101102"
       },
       {
